@@ -6,8 +6,8 @@ Frontend Engineer based in Brooklyn
 
 Formerly 
 
-- Giphy
 - Kickstarter
+- Giphy
 - Tumblr
 
 
