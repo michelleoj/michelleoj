@@ -11,7 +11,7 @@ Formerly:
 - Tumblr
 
 Currently:
-@AnchorFM / @spotify
+- AnchorFM / Spotify
 
 
 
