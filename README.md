@@ -4,14 +4,14 @@
 
 Frontend Engineer based in Brooklyn
 
-Formerly:
-
-- Kickstarter
-- Giphy
-- Tumblr
 
 Currently:
 - AnchorFM / Spotify
+
+Formerly:
+- Kickstarter
+- Giphy
+- Tumblr
 
 
 
