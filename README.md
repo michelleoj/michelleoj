@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1105399555/1592271193/1500x500" />
+<img src="http://i.imgflip.com/16zzgq.jpg" />
 
 ### ✨ Hey, I'm Michelle ✨
 
